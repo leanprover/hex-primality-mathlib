@@ -19,10 +19,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "958b9caf7329880426a3f822bee463c47c385446",
+      "rev": "f3d0a0aee9eb3ee76560d3712a5b0792a65dc1ff",
       "name": "HexPrimality",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "958b9caf7329880426a3f822bee463c47c385446",
+      "inputRev": "f3d0a0aee9eb3ee76560d3712a5b0792a65dc1ff",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
