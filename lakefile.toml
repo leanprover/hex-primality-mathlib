@@ -9,7 +9,7 @@ leanOptions = [
 [[require]]
 name = "HexPrimality"
 git = "https://github.com/leanprover/hex-primality.git"
-rev = "9f73077f170e09b54f696c298827819b16cd4bea"
+rev = "958b9caf7329880426a3f822bee463c47c385446"
 
 [[require]]
 name = "mathlib"
