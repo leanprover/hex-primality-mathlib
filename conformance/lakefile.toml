@@ -14,5 +14,5 @@ path = ".."
 name = "HexPrimalityMathlibConformance"
 globs = [
   "HexPrimalityMathlib.Conformance",
-  "HexPrimalityMathlib.OptInConformance",
+  "HexPrimalityMathlibConformance.OptIn",
 ]
